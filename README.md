@@ -1,4 +1,4 @@
 # renamed
 Junk project to learn some git commands.
 
-Commit #1
+Commit #2
